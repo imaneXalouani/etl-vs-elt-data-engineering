@@ -1,0 +1,5 @@
+n_raw=20000
+n_clean=15912
+time_load=0.3273
+time_transform=0.1391
+time_total=0.5886
